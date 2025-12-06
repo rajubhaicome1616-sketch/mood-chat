@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of MoodChat",
+  "description": "A next-generation, AI-powered chat application that dynamically adapts to your mood. Features real-time conversation with Gemini, smart replies, mood analysis, image generation, and more.modechat,rajubhaikaapp,rajubhai,rajubhaimoodechat",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
